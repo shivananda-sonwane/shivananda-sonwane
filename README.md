@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivananda-sonwane&label=Profile%20views&color=0e75b6&style=flat" alt="shivananda-sonwane" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shivananda-sonwane" alt="shivananda-sonwane" /></a> </p>
-
 - 🔭 I’m currently working on **Generative AI.**
 
 - 🌱 I’m currently exploring **Generative AI.**
