@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shivananda sonwane.</h1>
-<h3 align="center">A passionate Data Scientist from India.</h3>
+<h3 align="center">A experienced Data Scientist from India.</h3>
 
 <p align="left"> <a href="https://twitter.com/shivu2021" target="blank"><img src="https://img.shields.io/twitter/follow/shivu2021?logo=twitter&style=for-the-badge" alt="shivu2021" /></a> </p>
 
