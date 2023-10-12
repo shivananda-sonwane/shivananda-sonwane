@@ -7,8 +7,6 @@
 
 - 🤝 I’m looking for help with **Advanced AI and Data Science.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shivananda-sonwane](https://github.com/shivananda-sonwane)
-
 - 💬 Ask me about **Machine Learning, Deep Learning, Artificial Intelligence, NLP .**
 
 - 📫 How to reach me **shivanandasonwane321@gmail.com**
